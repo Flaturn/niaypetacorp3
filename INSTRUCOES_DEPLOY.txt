@@ -1,0 +1,50 @@
+╔════════════════════════════════════════════════════════════════╗
+║  INSTRUÇÕES PARA DEPLOY NO NETLIFY - Niaypeta Corp™ RPG      ║
+╚════════════════════════════════════════════════════════════════╝
+
+📦 ARQUIVOS INCLUÍDOS:
+- package.json (dependências)
+- vite.config.js (configuração build)
+- tailwind.config.js (estilos)
+- postcss.config.js (processador CSS)
+- netlify.toml (config Netlify)
+- index.html (página principal)
+- .gitignore (arquivos ignorados)
+- README.md (documentação completa)
+- src/App.jsx (aplicação React)
+- src/main.jsx (inicialização)
+- src/index.css (estilos globais)
+
+🚀 PASSO A PASSO RÁPIDO:
+
+MÉTODO 1 - Via GitHub (RECOMENDADO):
+═══════════════════════════════════════
+1. Crie um repositório no GitHub
+2. Faça upload de TODOS os arquivos
+3. No Netlify, clique "New site from Git"
+4. Conecte seu repositório GitHub
+5. Configure:
+   - Build command: npm run build
+   - Publish directory: dist
+6. Clique "Deploy site"
+7. PRONTO! ✅
+
+MÉTODO 2 - Via Drag & Drop:
+═══════════════════════════
+1. Abra o terminal na pasta do projeto
+2. Execute: npm install
+3. Execute: npm run build
+4. No Netlify, arraste a pasta "dist" criada
+5. PRONTO! ✅
+
+📝 CREDENCIAIS:
+Senha para todos: DnD7MarPkm
+Usuários: Mestre, Alocin, Lila, Ludovic, Noryat, Pedro
+
+💡 DICAS:
+- Use o Método 1 para atualizações automáticas
+- Use o Método 2 para teste rápido
+- Leia o README.md para mais detalhes
+
+🆘 PROBLEMAS?
+Veja a seção "Problemas Comuns" no README.md
